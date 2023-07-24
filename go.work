@@ -1,0 +1,6 @@
+go 1.19
+
+use (
+	./GO-MOVIES-CRUD
+	./go-server
+)
